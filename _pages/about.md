@@ -39,6 +39,6 @@ My background spans:
 - **Scientific Computing**: FVM/FEM solvers, CFD, numerical methods
 - **HPC & Parallel Computing**: MPI, OpenMP, distributed training
 
-Previously, I spent 6 years at the University of Cambridge, where I engineered support for large numerical software projects like [FEniCSx](https://fenicsproject.org/) and scaled ML training and inference on heterogeneous HPC architectures." 
+Previously, I spent 6 years at the University of Cambridge, where I engineered support for large numerical software projects like [FEniCSx](https://fenicsproject.org/) and scaled ML training and inference on heterogeneous HPC architectures.
 
 I hold a **PhD in Physics (Scientific Computing)** in Finite Volume Methods for Continuum Mechanics from the [Laboratory for Scientific Computing](https://www.lsc.phy.cam.ac.uk/), University of Cambridge. 
