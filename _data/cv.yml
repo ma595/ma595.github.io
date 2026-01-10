@@ -14,13 +14,13 @@
     - title: PhD Physics
       institution: University of Cambridge
       year: 2013 - 2020
-    - title: MPhil Scientific Computing
+    - title: MPhil Scientific Computing (Distinction)
       institution: University of Cambridge
       year: 2012 - 2013
-    - title: MSc Computer Science
+    - title: MSc Computer Science (1st)
       institution: University of Manchester
       year: 2010 - 2012
-    - title: MEng Chemical Engineering
+    - title: MEng Chemical Engineering and Chemistry (1st)
       institution: University of Sheffield
       year: 2006 - 2010
 
@@ -28,7 +28,7 @@
   type: time_table
   contents:
     - title: Senior ML/Research Software Engineer
-      institution: Imperial College Centre for Computational Science (ICCS)
+      institution: Institute of Computing for Climate Science (ICCS), Cambridge
       year: 2024 - Present
       description:
         - Technical lead on ML-climate surrogate modelling projects
