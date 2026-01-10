@@ -6,7 +6,6 @@
     "email": "",
     "phone": "",
     "url": "https://ma595.github.io",
-    "summary": "Computational Physicist and Senior Research Software Engineer with 7+ years' experience bridging numerical simulation and scalable Deep Learning. Specialist in coupling ML surrogates with Fortran/C++ scientific codes (e.g., FTorch) and optimising distributed training on heterogeneous HPC architectures. PhD in Physics with deep expertise in FVM and FEM solvers.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -140,11 +139,18 @@
   ],
   "publications": [
     {
-      "name": "Deep learning for improved global precipitation in numerical weather prediction systems",
-      "publisher": "Nature",
-      "releaseDate": "2022",
+      "name": "Tree crown detection using Mask R-CNN",
+      "publisher": "Remote Sensing in Ecology and Conservation",
+      "releaseDate": "2023",
       "url": "",
-      "summary": "Co-author on ML surrogate modeling for climate applications"
+      "summary": "Contributor"
+    },
+    {
+      "name": "Pushing the limits of exoplanet discovery via direct imaging with deep learning",
+      "publisher": "ECML PKDD, Springer",
+      "releaseDate": "2020",
+      "url": "",
+      "summary": "Contributor"
     }
   ],
   "projects": []

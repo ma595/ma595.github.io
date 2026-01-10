@@ -28,7 +28,7 @@ latest_posts:
 
 I'm a **Computational Physicist** and **Senior Research Software Engineer** with 7+ years' experience bridging numerical simulation and scalable Deep Learning. 
 
-Currently, I'm a Senior Research Engineer at the [Institute of Computing for Climate Science (ICCS)](https://iccs.cam.ac.uk/) in Cambridge, where I work on ML-climate surrogate modelling projects. My focus is on benchmarking spin-up emulators and coupling Fortran codes with PyTorch using [FTorch](https://github.com/Cambridge-ICCS/FTorch). 
+Currently, I'm a Senior Research Engineer at the [Institute of Computing for Climate Science (ICCS)](https://iccs.cam.ac.uk/) in Cambridge, where I work on ML-climate surrogate modelling projects. My focus is on writing software to accelerate and evaluate ocean spin-up, and couple Fortran codes with PyTorch using [FTorch](https://github.com/Cambridge-ICCS/FTorch). 
 
 My background spans:
 - **ML/DL Engineering**: PyTorch, TensorFlow, JAX
@@ -38,4 +38,4 @@ My background spans:
 
 Previously, I spent 6 years at the University of Cambridge, where I engineered support for large numerical software projects like FEniCSx and scaled ML training and inference on heterogeneous HPC architectures." 
 
-I hold a **PhD in Physics (Scientific Computing) ** from the University of Cambridge in finite volume methods for continuum mechanics. 
+I hold a **PhD in Physics (Scientific Computing)** from the University of Cambridge in Finite Volume Methods for Continuum Mechanics from the [Laboratory for Scientific Computing](https://www.lsc.phy.cam.ac.uk/). 
